@@ -1,7 +1,8 @@
-📊 SQL Projects Repository
+# 📊 SQL Projects Repository
+
 Welcome to the SQL Projects repository! This collection showcases various real-world data analysis projects using SQL. Each project is designed to demonstrate data querying, transformation, aggregation, and reporting techniques through structured SQL scripts.
 
-🧠 Project Objectives
+## 🧠 Project Objectives
 Practice writing efficient and readable SQL queries.
 
 Analyze structured data to extract meaningful insights.
@@ -10,7 +11,7 @@ Perform data cleaning, transformation, and summarization tasks.
 
 Explore business scenarios like sales analysis, customer segmentation, and performance tracking.
 
-📁 Project Structure
+### 📁 Project Structure
 pgsql
 Copy
 Edit
@@ -32,7 +33,7 @@ Data Sources: Public datasets or mock data
 
 Tools Used: SQL clients like DBeaver, pgAdmin, MySQL Workbench
 
-📌 Skills Demonstrated
+### 📌 Skills Demonstrated
 Joins (INNER, LEFT, RIGHT, FULL)
 
 Subqueries and Common Table Expressions (CTEs)
@@ -47,7 +48,7 @@ Indexing and query optimization (advanced)
 
 Data validation and integrity checks
 
-🚀 How to Use
+### 🚀 How to Use
 Clone the repository.
 
 Import the dataset or use the schema provided in your preferred SQL environment.
@@ -56,7 +57,7 @@ Run the .sql scripts in sequence to explore the data and analysis.
 
 Modify or extend queries for your own learning!
 
-📈 Example Use Cases
+### 📈 Example Use Cases
 Retail sales trend analysis
 
 Customer lifetime value calculation
@@ -65,5 +66,5 @@ HR employee attrition reports
 
 Inventory and supply chain tracking
 
-🙌 Contributing
+### 🙌 Contributing
 Feel free to fork the repo, add your own projects, or suggest improvements!
