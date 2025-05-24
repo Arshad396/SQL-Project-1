@@ -66,5 +66,5 @@ HR employee attrition reports
 
 Inventory and supply chain tracking
 
-### 🙌 Contributing
+### 🙌 Contributing:
 Feel free to fork the repo, add your own projects, or suggest improvements!
